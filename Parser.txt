@@ -1,0 +1,2 @@
+error encounterd
+Function defined : main , return type : int 
